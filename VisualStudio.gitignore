@@ -160,6 +160,9 @@ ClientBin/
 *.publishsettings
 node_modules/
 
+#node.js tools IntelliSense
+#.ntvs_analysis.dat
+
 # RIA/Silverlight projects
 Generated_Code/
 
